@@ -16,6 +16,13 @@ It includes best practices for **authentication, interceptors, environment confi
 
 ---
 
+
+## 📦 Project Structure
+
+Here’s how the project is organized:
+
+![Project Structure](./docs/folder-stracture.png)
+
 ## 📦 Installation
 
 ```bash
