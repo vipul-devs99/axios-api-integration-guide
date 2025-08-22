@@ -21,7 +21,7 @@ It includes best practices for **authentication, interceptors, environment confi
 
 Here’s how the project is organized:
 
-![Project Structure](./docs/folder-stracture.png)
+![Project Structure](./src/docs/folder-stracture.jpg/docs/folder-stracture.jpg)
 
 ## 📦 Installation
 
